@@ -1,7 +1,7 @@
 #include <DxLib.h>
 #include "Grid.h"
 
-//player test
+//player test2
 
 Grid::Grid(void)
 {
