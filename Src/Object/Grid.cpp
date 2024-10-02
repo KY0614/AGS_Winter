@@ -1,6 +1,8 @@
 #include <DxLib.h>
 #include "Grid.h"
 
+//player test2
+
 Grid::Grid(void)
 {
 }
