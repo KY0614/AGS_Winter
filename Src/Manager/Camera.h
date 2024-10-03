@@ -3,7 +3,11 @@
 #include "../Common/Quaternion.h"
 
 
+<<<<<<< HEAD
 //Test
+=======
+//GitTesta
+>>>>>>> 01c23092be1f4930a5a6f055397b1ba8db8167e7
 
 class Camera
 {
